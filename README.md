@@ -1,3 +1,3 @@
-# Site do Coletivo Soberana
-Soberana é um coletivo marxista-leninista de criadores de conteúdo na internet. 
-O site abriga nosso manifesto e links para redes sociais. Está disponível em [soberanatv.github.io](https://soberanatv.github.io).
+# Site do Roberto
+Não ligo pra muita coisa, só quero seguir minha vida no off em paz com pessoas que eu realmente considero.
+O site abriga meus links para redes sociais. Está disponível em [aqueleroberto.github.io](https://aqueleroberto.github.io).
